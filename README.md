@@ -1,0 +1,1 @@
+BUILDING A BALANCE SHEET USING CSS PSEUDO SELECTORS : A Balance Sheet Was Created Using HTML For Layout And CSS For Styling. CSS Pseudo-Selectors Were Used To Highlight Specific Elements Like Headings And Totals, Making The Design Cleaner And More Visually Appealing Without Extra Classes.
